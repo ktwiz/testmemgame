@@ -1,14 +1,14 @@
 import React, {useState} from 'react'
 import Board from './components/Board/Board'
-import backImg from './assets/images/back.png'
-import angular from './assets/images/angular.png'
-import css from './assets/images/css.png'
-import go from './assets/images/go.png'
-import html from './assets/images/html.png'
-import rail from './assets/images/rail.png'
-import react from './assets/images/react.png'
-import scala from './assets/images/scala.png'
-import vue from './assets/images/vue.png'
+import backImg from './assets/images/acb.png'
+import angular from './assets/images/NGUYENNK.jpg'
+import css from './assets/images/NAMVD.jpg'
+import go from './assets/images/TUANDH.jpg'
+import html from './assets/images/MYBPH.jpg'
+import rail from './assets/images/ANDH.jpg'
+import react from './assets/images/DATLA.jpg'
+import scala from './assets/images/THAOVN.jpg'
+import vue from './assets/images/HAOLNH.jpg'
 
 function App() {
   const cards = buildCards()
